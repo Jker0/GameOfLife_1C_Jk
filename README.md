@@ -1,3 +1,3 @@
-# This is "Game of life" for 1C. 
+# This is Conway's "Game of life" for 1C. 
 You need 1C platform to run this game.
 //Игра "Жизнь" из серии клеточных автоматов. Вам нужна 1Ска для запуска этой игры.  
