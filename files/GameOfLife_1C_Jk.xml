@@ -16,70 +16,15 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Life is strange v2</v8:content>
+					<v8:content>Life is strange v2.2</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>This is Conway's "Game of life" for 1C.</Comment>
 			<DefaultForm>ExternalDataProcessor.LifeIsStrangeJk.Form.ОсновнаяФорма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
-			<TabularSection uuid="a86b9362-4978-42c0-8194-adc9c63971ab">
-				<InternalInfo>
-					<xr:GeneratedType name="DataProcessorTabularSection.LifeIsStrangeJk.Точки" category="TabularSection">
-						<xr:TypeId>8159fbc4-190f-44ed-a01e-a0bb167aa6aa</xr:TypeId>
-						<xr:ValueId>171eff0c-81f0-4ddd-95ae-9ef53630c7bc</xr:ValueId>
-					</xr:GeneratedType>
-					<xr:GeneratedType name="DataProcessorTabularSectionRow.LifeIsStrangeJk.Точки" category="TabularSectionRow">
-						<xr:TypeId>ac264327-d95d-40dd-b0b8-709b2bc7c333</xr:TypeId>
-						<xr:ValueId>f02da845-3664-46ee-a75a-dad911f7344d</xr:ValueId>
-					</xr:GeneratedType>
-				</InternalInfo>
-				<Properties>
-					<Name>Точки</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Точки</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<ToolTip/>
-					<FillChecking>DontCheck</FillChecking>
-					<StandardAttributes>
-						<xr:StandardAttribute name="LineNumber">
-							<xr:LinkByType/>
-							<xr:FillChecking>DontCheck</xr:FillChecking>
-							<xr:MultiLine>false</xr:MultiLine>
-							<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
-							<xr:CreateOnInput>Auto</xr:CreateOnInput>
-							<xr:TypeReductionMode>TransformValues</xr:TypeReductionMode>
-							<xr:MaxValue xsi:nil="true"/>
-							<xr:ToolTip/>
-							<xr:ExtendedEdit>false</xr:ExtendedEdit>
-							<xr:Format/>
-							<xr:ChoiceForm/>
-							<xr:QuickChoice>Auto</xr:QuickChoice>
-							<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
-							<xr:EditFormat/>
-							<xr:PasswordMode>false</xr:PasswordMode>
-							<xr:DataHistory>Use</xr:DataHistory>
-							<xr:MarkNegatives>false</xr:MarkNegatives>
-							<xr:MinValue xsi:nil="true"/>
-							<xr:Synonym/>
-							<xr:Comment/>
-							<xr:FullTextSearch>Use</xr:FullTextSearch>
-							<xr:ChoiceParameterLinks/>
-							<xr:FillValue xsi:nil="true"/>
-							<xr:Mask/>
-							<xr:ChoiceParameters/>
-						</xr:StandardAttribute>
-					</StandardAttributes>
-				</Properties>
-				<ChildObjects/>
-			</TabularSection>
 			<Form>ОсновнаяФорма</Form>
-			<Template>Макет</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
